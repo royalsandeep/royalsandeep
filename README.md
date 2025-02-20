@@ -40,4 +40,5 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 [![Twitter](https://img.shields.io/badge/Twitter-@royalsandeep-1DA1F2)](https://twitter.com/royalsandeep)
 [![Email](https://img.shields.io/badge/Email-royalsandeep%40example.com-red)](mailto:royalsandeep@example.com)
 
-Thanks for stopping by!!
+Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊
+
