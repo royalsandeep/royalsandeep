@@ -11,12 +11,7 @@ I'm a passionate developer who loves to learn and build software that makes a di
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places.
 
-## 📫 Let's Connect
-Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@royalsandeep-0077B5)](https://www.linkedin.com/in/royalsandeep)
-[![Twitter](https://img.shields.io/badge/Twitter-@royalsandeep-1DA1F2)](https://twitter.com/royalsandeep)
-[![Email](https://img.shields.io/badge/Email-royalsandeep%40example.com-red)](mailto:royalsandeep@example.com)
 
 ## 🛠️ Technologies & Tools
 - Programming Languages: JavaScript, Python, Java, C++
@@ -35,10 +30,11 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 - [Awesome Project 1](https://github.com/royalsandeep/awesome-project-1) - A great project that does amazing things.
 - [Awesome Project 2](https://github.com/royalsandeep/awesome-project-2) - Another great project with awesome features.
 
-## 🌟 Contributions
-I love contributing to open-source projects and collaborating with the community. Here are some of the projects I have contributed to:
-- [Open Source Project 1](https://github.com/open-source-project-1)
-- [Open Source Project 2](https://github.com/open-source-project-2)
+## 📈 GitHub Stats
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=royalsandeep&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royalsandeep&layout=compact&theme=radical)
+- ## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=royalsandeep&theme=radical)
 
 ## 📫 Let's Connect
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
