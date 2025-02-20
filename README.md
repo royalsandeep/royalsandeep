@@ -11,6 +11,13 @@ I'm a passionate developer who loves to learn and build software that makes a di
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places.
 
+## 📫 Let's Connect
+Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@royalsandeep-0077B5)](https://www.linkedin.com/in/royalsandeep)
+[![Twitter](https://img.shields.io/badge/Twitter-@royalsandeep-1DA1F2)](https://twitter.com/royalsandeep)
+[![Email](https://img.shields.io/badge/Email-royalsandeep%40example.com-red)](mailto:royalsandeep@example.com)
+
 ## 🛠️ Technologies & Tools
 - Programming Languages: JavaScript, Python, Java, C++
 - Web Development: HTML, CSS, React, Node.js
