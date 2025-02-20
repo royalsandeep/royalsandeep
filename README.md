@@ -30,8 +30,12 @@ I'm a passionate developer who loves to learn and build software that makes a di
 ## 📈 GitHub Stats
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=royalsandeep&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royalsandeep&layout=compact&theme=radical)
+
 - ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=royalsandeep&theme=radical)
+
+## Latest Tweet
+<blockquote class="twitter-tweet"><a href="https://twitter.com/yourusername/status/yourtweetid">Your latest tweet</a></blockquote>
 
 ## 📫 Let's Connect
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
