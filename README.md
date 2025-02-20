@@ -36,7 +36,7 @@ I love contributing to open-source projects and collaborating with the community
 ## 📫 Let's Connect
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
 
-[![LinkedIn](https://img.shields.io/badge/Twitter-@royalsandeep-1DA1F2)](https://twitter.com/royalsandeep)
+[![LinkedIn](https://img.shields.io/badge/Linkdn-@royalsandeep-1DA1F2)](https://Linkdn.com/royalsandeep)
 [![Twitter](https://img.shields.io/badge/Twitter-@royalsandeep-1DA1F2)](https://twitter.com/royalsandeep)
 [![Email](https://img.shields.io/badge/Email-royalsandeep%40example.com-red)](mailto:royalsandeep@example.com)
 
