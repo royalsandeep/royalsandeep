@@ -22,9 +22,6 @@ I'm a passionate developer who loves to learn and build software that makes a di
 - DevOps: Docker, Kubernetes, Jenkins
 - Machine Learning: TensorFlow, PyTorch
 
-## 📈 GitHub Stats
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=royalsandeep&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royalsandeep&layout=compact&theme=radical)
 
 ## 📂 Featured Repositories
 - [Awesome Project 1](https://github.com/royalsandeep/awesome-project-1) - A great project that does amazing things.
