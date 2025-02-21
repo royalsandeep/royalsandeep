@@ -4,28 +4,18 @@ I'm a passionate developer who loves to learn and build software that makes a di
 
 ## 🚀 About Me
 - 🔭 I’m currently working on various open-source projects.
-- 🌱 I’m always learning and currently diving deeper into machine learning and AI.
-- 👯 I’m looking to collaborate on exciting projects with other developers.
-- 💬 Ask me about web development, cloud computing, and AI.
-- 📫 How to reach me: [Email](mailto:royalsandeep@example.com) | [LinkedIn](https://www.linkedin.com/in/royalsandeep) | [Twitter](https://twitter.com/royalsandeep)
+- 🌱 I’m always learning and currently diving deeper into machine learning and AI
+- 💬 Ask me about web development.
+- 📫 How to reach me: [Email](mailto:lagumsandeep01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/royalsandeep) | [Twitter](https://twitter.com/royalsandeep)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places.
 
-
-
 ## 🛠️ Technologies & Tools
-- Programming Languages: JavaScript, Python, Java, C++
+- Programming Languages: JavaScript, Python.
 - Web Development: HTML, CSS, React, Node.js
 - Mobile Development: React Native
 - Databases: MySQL, MongoDB, PostgreSQL
-- Cloud: AWS, Azure, Google Cloud
-- DevOps: Docker, Kubernetes, Jenkins
 - Machine Learning: TensorFlow, PyTorch
-
-
-## 📂 Featured Repositories
-- [Awesome Project 1](https://github.com/royalsandeep/awesome-project-1) - A great project that does amazing things.
-- [Awesome Project 2](https://github.com/royalsandeep/awesome-project-2) - Another great project with awesome features.
 
 ## 📈 GitHub Stats
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=royalsandeep&show_icons=true&theme=radical)
